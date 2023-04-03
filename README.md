@@ -10,7 +10,6 @@
 - [Status](#status)
 - [What is it?](#what-is-it?)
 - [Where to get it](#where-to-get-it)
-- [Instructions](#instructions)
 - [Creator](#creator)
 
 # Recommendations with IBM:
